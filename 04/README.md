@@ -14,7 +14,7 @@ This reduces unnecessary power usage and mimics real-world automatic lighting sy
 * PIR Motion Sensor
 * LED
 * Arduino Uno
-* Resistor (10kΩ)
+* Resistor (220Ω)
 
 ---
 
