@@ -20,11 +20,11 @@ void loop() {
   Serial.print(ldrValue);
   Serial.print(" Motion: ");
   Serial.println(motion);
-  if(ldrvalue < threshold && motion == HIGH){
-    digitalWrite(relayPin, LOW);
+  if(ldrValue > threshold && motion == HIGH){
+    digitalWrite(relayPin, HIGH);
   }
   else{
-    digitalWrite(relayPin, HIGH);
+    digitalWrite(relayPin, LOW);
   }
   delay(200);
 
