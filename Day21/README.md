@@ -1,4 +1,4 @@
-# Day 22 – Smart Temperature Alert System (DHT11 + LED + Buzzer)
+# Day 21 – Smart Temperature Alert System (DHT11 + LED + Buzzer)
 
 ## Overview
 
