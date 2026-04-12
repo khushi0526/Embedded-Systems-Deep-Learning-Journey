@@ -36,7 +36,7 @@ This project enhances the smart room system by adding a manual override feature.
 https://wokwi.com/projects/461118471516211201
 
 ---
-https://wokwi.com/projects/461118471516211201
+
 
 ## System Logic
 
