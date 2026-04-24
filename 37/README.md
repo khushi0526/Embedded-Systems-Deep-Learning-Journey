@@ -34,6 +34,11 @@ This project implements a menu-driven user interface using an LCD display. The s
 
 ---
 
+## Simulation Link
+https://wokwi.com/projects/462078629465011201
+
+---
+
 ## Learning Outcomes
 
 * UI design in embedded systems
